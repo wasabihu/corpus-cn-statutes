@@ -1,0 +1,39 @@
+corpus-cn-statutes — Statutory Public Domain & Non-Affiliation Notice
+=====================================================================
+
+1. Underlying Statutory & Regulatory Texts — PRC Statutory Public Domain
+   Under Article 5(1) of the Copyright Law of the People's Republic of China
+   (《中华人民共和国著作权法》第五条第一项, as amended 2020):
+
+   Chinese Original:
+     “第五条 本法不适用于：（一）法律、法规，国家机关的决议、决定、命令和其他具有立法、行政、司法性质的文件，及其官方正式译文；”
+
+   English Reference Translation:
+     "Article 5. This Law shall not apply to: (1) laws, regulations, resolutions,
+      decisions, and orders of state organs, other documents of a legislative,
+      administrative, or judicial nature, and their official translations;"
+
+   Accordingly, all verbatim statutory provisions, State Council administrative
+   regulations, Ministry of Finance accounting rules, CSRC departmental rules,
+   and Supreme People's Court judicial interpretations contained in this
+   repository are in the statutory public domain and free of copyright
+   restrictions. Zero commercial headnotes, editorial annotations, or
+   proprietary translations are included.
+
+2. Repository Arrangement, Provenance Headers & Manifest — CC0 1.0 Universal
+   To the extent any copyright, database, or neighboring rights might attach to
+   the selection, per-article directory layout, 3-line provenance headers, or
+   `MANIFEST.tsv`, the maintainer dedicates all such contributions to the
+   worldwide public domain under Creative Commons CC0 1.0 Universal (`CC0-1.0`).
+   See `LICENSE` for the full unmodified CC0 1.0 Universal legal code.
+
+3. Non-Affiliation & Disclaimer Notice
+   - Independent Open-Data Corpus: `wasabihu/corpus-cn-statutes` is maintained
+     independently alongside `wasabihu/vericorpus`. It is NOT affiliated with,
+     sponsored by, or endorsed by The XERJ Authors (`xerj-org`) or any People's
+     Republic of China legislative, administrative, or judicial organ.
+   - Not Legal or Investment Advice: Provided strictly "AS IS" as a static
+     plain-text research snapshot (including historical 2020 trial IPO measures
+     superseded by February 2023 unified CSRC Order No. 205). Always verify
+     current authoritative texts on `flk.npc.gov.cn` or the issuing authority's
+     official gazette.
